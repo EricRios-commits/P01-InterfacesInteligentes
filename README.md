@@ -9,3 +9,6 @@ El terreno se ha creado con el sistema de Terrain proporcionado por Unity y se l
 Se han creado etiquetas descriptivas y se han asignado a los distintos objetos de la escena. Un script añadido al objeto ObjectManager se encarga de buscarlos todos e imprimir su nombre, etiqueta y posición por consola.
 
 A los objetos geométricos básicos elegidos (esfera y cubo) se les ha añadido un rigidbody y se les ha dado propiedades de rebote por diversión.
+
+Muestra de ejecución:
+![](p01-m.gif)
